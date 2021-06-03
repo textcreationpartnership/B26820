@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Midd.ss. Ad generalem sessionem pacis domini regis tantam pro comitat. Midd. apud Hick's-hall in St. John-Street in comitat. prædict. die Lunæscilicet octavo die Decembris anno regni nostri Caroli secundi Dei gratia Angliæ, Scotiæ, Franciæ &amp; Hiberniæ regis fidei defensoris &amp;c....</title>
+            <author>Middlesex (England)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26820</idno><idno type="EEBO-CITATION">99888943</idno>
+  <idno type="VID">193964</idno>
+  <idno type="EEBO-PROQUEST">2240903661</idno>
+  
+            <idno type="STC">Wing M1969B</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[162]</idno>
+            <idno type="STC">ESTC R232557</idno>
+            <idno type="PROQUEST">ocm99888943</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888943e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26820)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193964)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C29:2[162])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Midd.ss. Ad generalem sessionem pacis domini regis tantam pro comitat. Midd. apud Hick's-hall in St. John-Street in comitat. prædict. die Lunæscilicet octavo die Decembris anno regni nostri Caroli secundi Dei gratia Angliæ, Scotiæ, Franciæ &amp; Hiberniæ regis fidei defensoris &amp;c....</title>
+                  <author>Middlesex (England)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1673].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An order levying fines for failing to mend roads.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Roads --  Finance --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Fines (Penalties) --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Middlesex (England) --  Politics and government --  17th century --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:193964:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <opener>
+               <dateline>Ad Generalem Sessionem pacis Domini Regis tantam pro Comitat. <hi>Midd.</hi> apud <note place="margin">
+                     <hi>Midd.</hi> ss.</note>
+                  <hi>Hick's-hall</hi> in <hi>St. John-street</hi> in Comitat. praedict. <date>die <hi>Lunae</hi> scilicet Octavo die <hi>De<g ref="char:EOLhyphen"/>cembris</hi> Anno Regni Domini nostri <hi>Caroli</hi> Secundi Dei Gratia <hi>Angliae, Scotiae, Franciae</hi> &amp; <hi>Hiberniae</hi> Regis fidei Defensoris <hi>&amp;c.</hi> Vicesimo Quinto coram <hi>Gulielmo</hi>
+                  </date>
+               </dateline> Comit. <hi>Craven Edwardo Grey</hi> Armigero <hi>Philippo Mathews</hi> Baronetto, <hi>Edwardo Rich</hi> Milit. <hi>Thomas Robinson</hi> Armigero, <hi>Gulielmo Barker</hi> Armigero, &amp; alijs So<g ref="char:EOLhyphen"/>cijs suis Justiciarijs, dicti Domini Regis ad pacem in Comitat. praed. conservand. nec<g ref="char:EOLhyphen"/>non ad diversa felonias transgressiones &amp; alia malefacta in eodem Comitat. perpetrat. audiend. &amp; terminand. assignatis.</opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is ordered by this Court that the Clark of the Peace of this County do in pursuance of the Statutes in such case made and provided forthwith Estreat all and singular the respective Fine and Fines formerly imposed by this Court at any Generall or Quarter Sessions of the Peace held for this County, on the Inhabitants of severall Parishes, Townships and Places in this County, for not amending the respective High ways within the said Parishes, Town-ships and Places in this County, which have not sufficiently repaired and amended the said High<g ref="char:EOLhyphen"/>wayes within the time therefore to them limited when the said Fine and Fines were Condi<g ref="char:EOLhyphen"/>tionally imposed (and for which the said Inhabitants, or any of them, are not otherwise yet discharged: For that they did not sufficiently repair and amend the said respective High-ways within the time therefore to them limited, as aforesaid, when the said respective Fine and Fines were Conditionally imposed. And this Court being informed, That severall Surveyors of the High-wayes of severall of the said Parishes, Town-ships, and places have expended several great Sums of Money towards the repairing the respective High-wayes within the respective Parishes, Town-ships, and places in which they are and were Surveyors of the High-wayes, as aforesaid, towards the reparation and amendment of the same High-wayes, and cannot receive or be reim<g ref="char:EOLhyphen"/>bursed their said Expences by the Inhabitants of the respective Parishes, Townships, and places wherein they are or were Surveyors of the High-wayes, as aforesaid, nor obtain any voluntary Rate to be made by the said respective Inhabitants, or Collected in order thereunto, to the said Surveyors great discouragement to perfect the works of sufficient reparation and amendment of the said High-wayes, do think fit, and hereby further order, That the said respective Fine and Fines, or so much thereof as will reimburse the said Surveyors, and the incident charges of Estreating and Levying thereof, and perfect the works of the amendment and repara<g ref="char:EOLhyphen"/>tion of the said respective High-ways be Levyed on such of the refractory persons in opposing, or most negli<g ref="char:EOLhyphen"/>gent persons in making voluntary rates for the reimbursement of the said Surveyors, and perfecting the works of reparation of the said High-wayes in the said respective Parishes, Town-ships, and places after such rates and proportions; and so much only of the said Fine and Fines, and no more, as shall be directed to the Clark of the Peace of this County in writing under the hands of two or more of His Majesties Justices of Peace of this County, in the repsective divisions in this County, wherein the said Justices are desired to take care for the repair and amendment of the respective High-wayes and Roads in this County, by a Printed order of this Court, made at a Generall Sessions of the Peace held for this County, the ninth day of <hi>December</hi> last; or in or by any subsequent order of this Court relating thereunto. And that the caid Clark of the Peace when he shall sign or deliver any of the said Estreats to the person or persons appointed by the said Statutes to Levy the said Fine and Fines, do together with the respective Estreats, signifie the direction of the said last mentioned Justices, and deliver unto such person or persons as aforesaid, appointed to Levy the said Fine and Fines, a true Copy of the names of the refractory or negligent persons, afore-mentioned, and what sums, and how much in the whole the said last mentioned Justices shall direct (under their hands as aforesaid) to be levyed by distress upon the said refractory or negligent persons afore-mentioned, or any of them: And that the said person or persons ap<g ref="char:EOLhyphen"/>pointed by the said Statutes, to Levy the Fine and Fines aforesaid, do levy the same on such refractory or neg<g ref="char:EOLhyphen"/>ligent person and persons above mentioned, and no others, after such proportions as the said last-mentioned Justices and Clarke of the Peace shall direct and signifie, as aforesaid. And it is further ordered by this Court, That the Clark of the Peace of this County take care that a competent number of Coppies be forth<g ref="char:EOLhyphen"/>with Printed at the charge of this County.</p>
+            <closer>
+               <signed>Per Curiam.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
